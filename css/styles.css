@@ -1,3 +1,6 @@
+* {
+box-sizing: border-box
+} 
 body{
   background-color:#E2E5EB;
 
