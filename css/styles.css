@@ -10,8 +10,7 @@ body{
   margin-top: 10px;
 }
 .signin-button button{
-  padding: 10px 0;
-  width: 100px;
+  padding: 10px 35px;
   background-color: #103EC6;
   border: 1px solid black;
   color: #ffffff;
