@@ -134,3 +134,26 @@ input {
   text-align: center;
   color: gray;
 }
+.footer-container{
+  text-align: center;
+}
+
+.footer-container p{
+  margin-top: 2px;
+  margin-bottom: 0;
+  font-size: 15px;
+  color: grey;
+}
+
+footer a{
+  text-decoration: none;
+  color: grey;
+}
+
+footer a:hover{
+  text-decoration: underline;
+}
+
+footer{
+  margin: 30px 0;
+}
