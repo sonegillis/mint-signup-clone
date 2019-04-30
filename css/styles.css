@@ -29,3 +29,108 @@ body{
   color: #103EC6;
   cursor: pointer;
 }
+#form-section {
+  width: 100%;
+}
+
+.signup-form {
+  width: 32%;
+  margin: 0 auto;
+  background-color: white;
+  border: 1px solid rgba(0,0,0,0.3);
+}
+
+.signup-form-header {
+  text-align: center;
+  padding: 20px 0 0 0;
+}
+
+.signup-form-header h2 {
+  margin: 0;
+  font-weight: lighter;
+}
+
+.signup-form-header p {
+  padding: 0 50px;
+  font-size: 14px;
+}
+
+form a {
+  text-decoration: none;
+  color: #103EC6;
+}
+
+form a:hover {
+  text-decoration: underline;
+}
+
+fieldset {
+  border: 0;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+}
+
+#account-details {
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+
+#account-details p {
+  margin: 0 auto;
+  padding: 0;
+  font-size: 14px;
+}
+
+#email {
+  margin-bottom: 28px;
+}
+
+#tel {
+  margin-bottom: 5px;
+}
+
+label {
+  padding-bottom: 10px;
+}
+
+input, label {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+input {
+  border-radius: 1px solid rgba(0,0,0,0.3);
+  padding: 5px;
+
+}
+
+#submit {
+  background-color: #103EC6;
+  color: white;
+  margin-top: 20px;
+  border: 0;
+  border-radius: 3px;
+  padding: 12px;
+}
+
+.more-info {
+  text-align: center;
+  font-size: 11px;
+  padding: 30px 10px;
+}
+
+.more-info p {
+  margin: 3px 0;
+  color: gray;
+}
+
+.signup-form-footer {
+  background-color: #E2E5EB;
+  padding: 15px;
+  font-size: 10px;
+  text-align: center;
+  color: gray;
+}
