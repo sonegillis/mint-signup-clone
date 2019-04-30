@@ -2,4 +2,4 @@ linters:
   csslint: {  }
 files:
   ignore:
-- 'bower_components/*'
+    - 'bower_components/*'
