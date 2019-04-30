@@ -1,5 +1,5 @@
 body{
-  background-color: rgba(100, 100, 200, 0.1) ;
+  background-color:#E2E5EB;
 
 }
 #navbar{
@@ -12,7 +12,7 @@ body{
 .signin-button button{
   padding: 10px;
   width: 100px;
-  background-color: blue;
+  background-color: #103EC6;
   border: 1px solid black;
   color: #ffffff;
   border-radius: 5px;
@@ -27,6 +27,6 @@ body{
 }
 .signin p a{
   text-decoration: none;
-  color: blue;
+  color: #103EC6;
   cursor: pointer;
 }
