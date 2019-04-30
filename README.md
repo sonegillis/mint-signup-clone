@@ -1,5 +1,5 @@
 # mint-signup-clone
-A page that clones the sign up section of the [mint website](https://sonegillis.github.io/mint-signup-clone/). 
+A page that clones the sign up section of the [mint website](https://accounts.intuit.com/signup.html?offering_id=Intuit.ifs.mint&namespace_id=50000026&redirect_url=https%3A%2F%2Fmint.intuit.com%2Foverview.event%3Ftask%3DS). You can have a live preview of this page [here](https://sonegillis.github.io/mint-signup-clone/).
 
 ## Preliquisites
 1. Install git.
@@ -14,4 +14,4 @@ A page that clones the sign up section of the [mint website](https://sonegillis.
 
 ## Contributers
 1. [Sone Gillis](https://github.com/sonegillis).
-2. [Simon Wa<<<<<]
+2. [Simon Wathigo](https://github.com/wathigo).
