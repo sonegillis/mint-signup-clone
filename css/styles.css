@@ -1,0 +1,31 @@
+body{
+  background-color:#E2E5EB;
+
+}
+#navbar{
+  height: 70px;
+}
+.signin, .signin-button{
+  float: right;
+  margin-top: 10px;
+}
+.signin-button button{
+  padding: 10px 35px;
+  background-color: #103EC6;
+  border: 1px solid black;
+  color: #ffffff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.signin{
+  margin-right: 10px;
+}
+.signin p{
+  margin: 0;
+  padding: 0;
+}
+.signin p a{
+  text-decoration: none;
+  color: #103EC6;
+  cursor: pointer;
+}
