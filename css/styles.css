@@ -11,7 +11,7 @@ body{
 }
 .signin-button button{
   padding: 10px 35px;
-  background-color: #103EC6;
+  background-color: #0077C5;
   border: 1px solid black;
   color: #ffffff;
   border-radius: 5px;
@@ -26,7 +26,7 @@ body{
 }
 .signin p a{
   text-decoration: none;
-  color: #103EC6;
+  color: #0077C5;
   cursor: pointer;
 }
 #form-section {
@@ -57,7 +57,7 @@ body{
 
 form a {
   text-decoration: none;
-  color: #103EC6;
+  color: #0077C5;
 }
 
 form a:hover {
@@ -108,7 +108,7 @@ input {
 }
 
 #submit {
-  background-color: #103EC6;
+  background-color: #0077C5;
   color: white;
   margin-top: 20px;
   border: 0;
@@ -175,20 +175,8 @@ footer{
   height: 25px;
 }
 
-ul{
-  list-style: none;
-  padding: 0;
-  width: 82%;
-  margin: 0 auto;
-}
-
 .icons{
   margin-top: 5px;
-}
-ul li{
-  width: 32%;
-  margin: 0;
-  display: inline-block;
 }
 
 .icons a{
@@ -217,9 +205,6 @@ ul li{
   padding-left: 10px;
 }
 
-.icon-tick img{
-
-}
 .icons img{
   margin-right: 5px;
 }
