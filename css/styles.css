@@ -34,8 +34,8 @@ body{
 }
 
 .signup-form {
-  width: 32%;
-  margin: 0 auto;
+  width: 30%;
+  margin: 5px auto;
   background-color: white;
   border: 1px solid rgba(0,0,0,0.3);
 }
@@ -156,4 +156,70 @@ footer a:hover{
 
 footer{
   margin: 30px 0;
+}
+
+.logo, .icons{
+  width: 30%;
+  margin: 0 auto;
+}
+
+.logo img{
+  display: block;
+  width: 32%;
+  height: 35px;
+  margin: 0 auto;
+}
+
+.icons img{
+  width: 25px;
+  height: 25px;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+  width: 82%;
+  margin: 0 auto;
+}
+
+.icons{
+  margin-top: 5px;
+}
+ul li{
+  width: 32%;
+  margin: 0;
+  display: inline-block;
+}
+
+.icons a{
+  margin-top: 0;
+  color: grey;
+  vertical-align: middle;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.icons img{
+  vertical-align: middle;
+}
+.icons p{
+  line-height: 50px;
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.icon-mint{
+  padding-right: 10px;
+}
+.icon-tick{
+  padding-left: 10px;
+}
+
+.icon-tick img{
+
+}
+.icons img{
+  margin-right: 5px;
 }
