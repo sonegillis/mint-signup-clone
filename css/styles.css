@@ -10,11 +10,11 @@ body{
   margin-top: 10px;
 }
 .signin-button button{
-  padding: 10px 35px;
   background-color: #0077C5;
   border: 1px solid black;
-  color: #ffffff;
+  padding: 10px 35px;
   border-radius: 5px;
+  color: #ffffff;
   cursor: pointer;
 }
 .signin{
@@ -25,39 +25,39 @@ body{
   padding: 0;
 }
 .signin p a{
-  text-decoration: none;
   color: #0077C5;
   cursor: pointer;
+  text-decoration: none;
 }
 #form-section {
   width: 100%;
 }
 
 .signup-form {
-  width: 30%;
-  margin: 5px auto;
   background-color: white;
-  border: 1px solid rgba(0,0,0,0.3);
+  border: 1px solid gray;
+  margin: 5px auto;
+  width: 30%;
 }
 
 .signup-form-header {
-  text-align: center;
   padding: 20px 0 0 0;
+  text-align: center;
 }
 
-.signup-form-header h2 {
-  margin: 0;
+h2 {
   font-weight: lighter;
+  margin: 0;
 }
 
 .signup-form-header p {
-  padding: 0 50px;
   font-size: 14px;
+  padding: 0 50px;
 }
 
 form a {
-  text-decoration: none;
   color: #0077C5;
+  text-decoration: none;
 }
 
 form a:hover {
@@ -66,10 +66,10 @@ form a:hover {
 
 fieldset {
   border: 0;
-  width: 80%;
   margin-left: auto;
   margin-right: auto;
   padding: 0;
+  width: 80%;
 }
 
 #account-details {
@@ -78,9 +78,9 @@ fieldset {
 }
 
 #account-details p {
+  font-size: 14px;
   margin: 0 auto;
   padding: 0;
-  font-size: 14px;
 }
 
 #email {
@@ -96,58 +96,59 @@ label {
 }
 
 input, label {
+  box-sizing: border-box;
   display: block;
   width: 100%;
-  box-sizing: border-box;
 }
 
 input {
-  border-radius: 1px solid rgba(0,0,0,0.3);
+  border: 1px solid gray;
+  border-radius: 1px;
   padding: 5px;
 
 }
 
 #submit {
   background-color: #0077C5;
-  color: white;
-  margin-top: 20px;
   border: 0;
   border-radius: 3px;
+  color: white;
+  margin-top: 20px;
   padding: 12px;
 }
 
 .more-info {
-  text-align: center;
   font-size: 11px;
   padding: 30px 10px;
+  text-align: center;
 }
 
 .more-info p {
-  margin: 3px 0;
   color: gray;
+  margin: 3px 0;
 }
 
 .signup-form-footer {
   background-color: #ECEEF1;
-  padding: 15px;
-  font-size: 10px;
-  text-align: center;
   color: gray;
+  font-size: 10px;
+  padding: 15px;
+  text-align: center;
 }
 .footer-container{
   text-align: center;
 }
 
 .footer-container p{
+  color: grey;
+  font-size: 15px;
   margin-top: 2px;
   margin-bottom: 0;
-  font-size: 15px;
-  color: grey;
 }
 
 footer a{
-  text-decoration: none;
   color: grey;
+  text-decoration: none;
 }
 
 footer a:hover{
@@ -159,20 +160,20 @@ footer{
 }
 
 .logo, .icons{
-  width: 30%;
   margin: 0 auto;
+  width: 30%;
 }
 
 .logo img{
   display: block;
-  width: 32%;
   height: 35px;
   margin: 0 auto;
+  width: 32%;
 }
 
 .icons img{
-  width: 25px;
   height: 25px;
+  width: 25px;
 }
 
 .icons{
@@ -180,11 +181,11 @@ footer{
 }
 
 .icons a{
-  margin-top: 0;
   color: grey;
-  vertical-align: middle;
-  text-decoration: none;
   font-size: 20px;
+  margin-top: 0;
+  text-decoration: none;
+  vertical-align: middle;
 }
 
 .icons img{
@@ -192,10 +193,10 @@ footer{
 }
 .icons p{
   line-height: 50px;
-  text-align: center;
-  width: 100%;
   margin: 0 auto;
   padding: 0;
+  text-align: center;
+  width: 100%;
 }
 
 .icon-mint{
